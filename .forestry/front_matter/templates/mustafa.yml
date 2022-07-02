@@ -1,6 +1,12 @@
 ---
 label: mustafa
 hide_body: true
-fields: []
+fields:
+- name: mustafa_alani
+  type: text
+  config:
+    required: false
+  label: mustafa alani
+  description: mşşzmşzmşzcmşzcm
 pages:
 - content/page/deneme/mustafa.md
