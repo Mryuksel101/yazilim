@@ -8,4 +8,12 @@ image: dart.png
 ---
 
 
-AAAAAAAAAAAAAAAAAAAAAAAAA
+<h2> Dart öğrenmeye en iyi nasıl başlanır <h2>
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+<h2>Reac native dart karşılaştırılması<h2>
+
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbcb
