@@ -7,11 +7,11 @@ title: Example Site
 languages:
     tr:
         languageName: Türkçe
-        title: Örnek Site
+        title: Mustafa'nın Yazılım Bloğu
         weight: 1
     en:
         languageName: English
-        title: Example Site
+        title: Mustafa's Software Blog
         weight: 1
 
 
@@ -49,12 +49,12 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: 
+        subtitle: Youtube kanalıma abone olabilirsin
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/neon.png
 
     article:
         math: false
