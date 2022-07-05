@@ -234,7 +234,8 @@ module:
     - path: github.com/CaiJimmy/hugo-theme-stack/v3
       disable: false
 
-
+sitemap:
+  filename: sitemap2.xml
 
 
 
